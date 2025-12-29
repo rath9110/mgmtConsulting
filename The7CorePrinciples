@@ -1,19 +1,23 @@
 **The 7 Core Principles: Article 5 of GDPR
 The core principles are explicitly outlined in Article 5(1) of the GDPR. These are the "rules of the road" for any data controller.
 
-Article 5(1)(a): Personal data shall be processed lawfully, fairly, and in a transparent manner in relation to the data subject (Lawfulness, Fairness, and Transparency). -> You must identify a specific "legal basis" for processing data (such as user consent or a contract) and be open and honest with the data subject about your intentions.
+Article 5(1):
 
-Article 5(1)(b): Personal data shall be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes (Purpose Limitation). -> You must clearly state why you are collecting data and only use it for those specific purposes. You cannot repurpose data for a new, incompatible goal without a new legal basis.
+(a): Personal data shall be processed lawfully, fairly, and in a transparent manner in relation to the data subject (Lawfulness, Fairness, and Transparency). -> You must identify a specific "legal basis" for processing data (such as user consent or a contract) and be open and honest with the data subject about your intentions.
 
-Article 5(1)(c): Personal data shall be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed (Data Minimization). -> You should only collect the absolute minimum amount of data necessary to achieve your stated purpose. If a data point isn't required for the transaction, it should not be collected.
+(b): Personal data shall be collected for specified, explicit, and legitimate purposes and not further processed in a manner that is incompatible with those purposes (Purpose Limitation). -> You must clearly state why you are collecting data and only use it for those specific purposes. You cannot repurpose data for a new, incompatible goal without a new legal basis.
 
-Article 5(1)(d): Personal data shall be accurate and, where necessary, kept up to date (Accuracy). -> All reasonable steps must be taken to ensure personal data is not misleading and is kept up to date. Records that are incorrect must be erased or rectified without delay.
+(c): Personal data shall be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed (Data Minimization). -> You should only collect the absolute minimum amount of data necessary to achieve your stated purpose. If a data point isn't required for the transaction, it should not be collected.
 
-Article 5(1)(e): Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed (Storage Limitation). -> You must not keep personal data for longer than you need it. Every organization should have a clear retention policy that defines when data is automatically deleted or anonymized.
+(d): Personal data shall be accurate and, where necessary, kept up to date (Accuracy). -> All reasonable steps must be taken to ensure personal data is not misleading and is kept up to date. Records that are incorrect must be erased or rectified without delay.
 
-Article 5(1)(f): Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage (Integrity and Confidentiality). -> You must ensure that appropriate security measures are in place to protect data against unauthorized processing, accidental loss, or destruction. This includes encryption, access controls, and cybersecurity protocols.
+(e): Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed (Storage Limitation). -> You must not keep personal data for longer than you need it. Every organization should have a clear retention policy that defines when data is automatically deleted or anonymized.
 
-Article 5(2): The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (Accountability). -> The most critical principle for management - you are responsible for complying with the other six principles and must be able to demonstrate that compliance through documentation, audits, and logs.
+(f): Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage (Integrity and Confidentiality). -> You must ensure that appropriate security measures are in place to protect data against unauthorized processing, accidental loss, or destruction. This includes encryption, access controls, and cybersecurity protocols.
+
+Article 5(2): The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (Accountability). -> The most critical principle for management -> you are responsible for complying with the other six principles and must be able to demonstrate that compliance through documentation, audits, and logs.
+
+
 
 **The 8 Rights of the Data Subject: Articles 12–22 of GDPR
 Unlike the principles, the rights are spread across Chapter III (Articles 12 to 22). Here is where they are specifically defined:
