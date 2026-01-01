@@ -1,10 +1,17 @@
 **Article 35: Data Protection Impact Assessment (DPIA)
 
-A DPIA is a document that asks: 
-1. What are we doing? 
-2. Is it necessary? 
-3. What could go wrong? 
-4. How do we stop it?
+A DPIA is a document that outlines, according to paragraph 7: 
+(a) Systematic Description & Purpose
+ You must provide a comprehensive map of how the data flows and why. This includes the nature, scope, and context of the processing.
+
+(b) Necessity & Proportionality Assessment
+You must prove that the data you are collecting is actually needed to achieve your goal and that you aren't over-collecting.
+
+(c) Risk Assessment (Rights & Freedoms)
+You must identify the specific risks to individuals. This isn't just about data breaches, but also risks like "function creep," discrimination via algorithms, or lack of transparency.
+
+(d) Mitigation Measures & Safeguards
+You must list the specific technical and organizational security measures you are putting in place to neutralize the risks identified in point (c).
 
 ***When a DPIA is necessary
 A DPIA is required whenever processing is likely to result in a high risk to the rights and freedoms of individuals. A DPIA is required at least in the following  cases:
